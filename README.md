@@ -3,6 +3,8 @@
 Tech Stack:
 Typescript · React · Redux · Strapi · Bootstrap5 · React-PDF · SurveyMonkey · AWS · ChartJs · SQLite
 
+Project is developed under a private repository in Gitlab.
+
 
 DDX Hamle is a web based platform run by TÜBİTAK TÜSSİDE to provide digitalization roadmaps to SME business by training and matching experienced consultants with them, based on Boğaziçi Industry 4.0 Platform’s D3A+ digital maturity model. The platform also offers financial KOSGEB support guidance for implementing the roadmap.
 
