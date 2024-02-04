@@ -3,12 +3,12 @@
 Tech Stack:
 Typescript · React · Redux · Strapi · Bootstrap5 · React-PDF · SurveyMonkey · AWS · ChartJs · SQLite
 
-Project is developed under a private repository in Gitlab.
+Project is developed under a private repository in Gitlab. The project is live and still in use.
 
 
 DDX Hamle is a web based platform run by TÜBİTAK TÜSSİDE to provide digitalization roadmaps to SME business by training and matching experienced consultants with them, based on Boğaziçi Industry 4.0 Platform’s D3A+ digital maturity model. The platform also offers financial KOSGEB support guidance for implementing the roadmap.
 
-https://ddxhamle.org/
+[https://ddxhamle.org/](http://ddx.tubitak.gov.tr)
 
 ## Client
 DDX Hamle is a government backed programme managed on a web based platform. The platform matches consultants with businesses according to their specialties, experiences and educational backgrounds in addition to providing training programmes for consultants and financial KOSGEB support guidance for businesses. Tio partnered with TÜBİTAK TÜSSİDE for branding, web based platform and website development of DDX Hamle. 
